@@ -1,0 +1,26 @@
+{
+  "name": "javascript-concept",
+  "version": "1.0.0",
+  "description": "",
+  "main": "IIFE.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "dev": "lite-server --baseDir='object-heritage'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjkandrea/javascript-concept.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kjkandrea/javascript-concept/issues"
+  },
+  "homepage": "https://github.com/kjkandrea/javascript-concept#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
